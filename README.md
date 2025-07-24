@@ -6,7 +6,7 @@ A retro-style browser-based arcade game built using HTML, CSS, and JavaScript. T
 
 ## 📸 Screenshot
 
-<img width="1017" height="573" alt="Screenshot 2025-07-24 at 7 23 20 pm" src="https://github.com/user-attachments/assets/db70f700-3b5d-42cb-81e4-47a4c17d6d34" />
+<img width="1017" height="573" alt="Screenshot 2025-07-24 at 7 23 20 pm" src="https://github.com/user-attachments/assets/0fbe7e09-f92b-4e6a-95ce-23dcb81c9586" />
 
 ---
 
@@ -29,9 +29,7 @@ A retro-style browser-based arcade game built using HTML, CSS, and JavaScript. T
 ---
 
 ## 🚀 Live Demo
-
-🕹️ Coming soon — deploying on Netlify or GitHub Pages  
-> *Once live, this section will link directly to the playable game online.*
+https://roxanne007.github.io/Retro-Arcade-Game/
 
 ---
 
